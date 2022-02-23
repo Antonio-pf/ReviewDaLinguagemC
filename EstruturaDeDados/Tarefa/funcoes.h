@@ -1,47 +1,33 @@
-// Defina abaixo uma struct de nome calculo que armazenará:
+// Definir uma struct de nome calculo que armazenará:
 // - uma variavel inteira de nome a
 // - uma varável caractere de nome operacao
 // - uma variavel inteira de nome b
 // - uma variavel inteira de nome resultado
 
 
-// Defina um vetor com 5 elementos a partir dessa struct para armazenamento do histórico
+// Definir um vetor com 5 elementos a partir da struct para armazenamento do histórico
 
 
 
-// Implemente a função soma:
 int soma(int a, int b) {
     cout << "\n\tOperacao  de adicao\n";
-    // Seu código aqui:
-
-
 
 }
 
 // Implemente a função subtracao:
 int subtracao(int a, int b) {
     cout << "\n\tOperacao  de subtracao\n";
-    // Seu código aqui:
-
-
 
 }
 
-// Implemente a função multiplicacao:
 int multiplicacao(int a, int b) {
    cout << "\n\tOperacao  de adicao\n";
-    // Seu código aqui:
-
-
 
 }
 
-// Implemente a função divisao:
+
 int divisao(int a, int b) {
     cout << "\n\tOperacao  de adicao\n";
-    // Seu código aqui:
-
-
 
 }
 
@@ -83,25 +69,14 @@ int calculadora(int valor1, int valor2, char operacao) {
             default:
                     cout << "Operador invalido \: : \n"
 
-    // Seu código aqui:
-
-
 
 }
 
-// Implemente a função limpaHistorico:
 int limpaHistorico() {
-    // Seu código aqui:
-
-
 
 }
 
-// Implemente a função listaHistorico:
 string listaHistorico()
 {
-    // Seu código aqui:
-
-
 
 }
