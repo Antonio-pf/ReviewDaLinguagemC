@@ -49,7 +49,7 @@ int multiplicacao(int a, int b) {
 int divisao(int a, int b) {
     cout << "\n\tOperacao  de adicao\n";
      int resultado = 0;
-     if(a || b = 0){
+     if(a == 0 ||b == 0){
         return 0;
      }
      else
